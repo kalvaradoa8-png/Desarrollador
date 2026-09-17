@@ -1,0 +1,4 @@
+Documentación de la solución - bugfix/correccion-formulario
+
+Problema: el formulario no validaba correctamente los campos vacíos.
+Solución: se agregó validación antes de enviar los datos.
