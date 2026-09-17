@@ -1,0 +1,4 @@
+Documentación de la solución - hotfix/error-conexion-bd
+
+Problema: la aplicación perdía la conexión con la base de datos en producción.
+Solución: se corrigió el manejo de la conexión y se agregó reintento automático.
